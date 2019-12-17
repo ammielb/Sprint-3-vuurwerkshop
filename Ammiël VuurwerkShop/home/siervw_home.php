@@ -38,5 +38,11 @@
         document.getElementById("main").style.marginLeft= "0";
     }
 </script>
-</script>
+<div class="space">
+  <footer>
+        <div class="footer">
+            <Center>Made By Ammiël Buijs</center>
+        </div>
+    </div>
+  </footer>
 </html>

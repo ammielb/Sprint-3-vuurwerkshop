@@ -36,4 +36,10 @@ function closeNav() {
 }
 </script>
 </script>
-</html>
+<div class="space">
+  <footer>
+        <div class="footer">
+            <Center>Made By Ammiël Buijs</center>
+        </div>
+    </div>
+  </footer>
