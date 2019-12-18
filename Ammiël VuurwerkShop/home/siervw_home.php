@@ -20,15 +20,17 @@
 <div id="bannerimage"></div>
 <div id="sidenav" class="sidenav">
    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()" class="right">&times;</a>
+   <a href="index.php">Home</a>
     <a href="knalvw_home.php">Knalvuurwerk</a>
     <a href="siervw_home.php">Siervuurwerk</a>
     <a href="compassortiment_home.php">Compleet assortiment</a>
 </div> 
 
+<h1 align="center">SierVuurWerk</h1>
 <div class="container" align="center">
     <?php
       include '../php/functies_vw.php';
-      sier();
+      cat('alle','');
 ?>
 </div>
 </body>
